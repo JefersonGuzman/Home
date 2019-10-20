@@ -1,0 +1,320 @@
+@import url('https://fonts.googleapis.com/css?family=Boogaloo');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html {
+  min-height: 100%;
+
+}
+
+.fondos{
+    background-color: rgb(92, 92, 92);
+}
+
+body{
+    margin: 0;
+    height:10px !important;
+    border: 1px solid #333;
+    color:black;
+
+} 
+
+
+
+.equipos div{
+    text-align: center;
+    margin-left:2%;
+    margin-bottom: 5%;
+    margin-top:10px;
+    width:250px;
+    height:180px;
+    background-color: rgba(39, 7, 58, 0.541);
+    border-radius: 20px;
+
+}
+.equipos img {
+    width:210px !important;
+    height:150px !important;
+    margin-top:5% !important;
+
+}
+
+
+.es img{
+   margin-top:3%;
+}
+.bannerImg{
+    margin:20px;
+}
+
+img{
+    width: 100%;
+}
+
+.icono{
+    margin-top: 40%;
+    width: 160px !important;
+    height: 140px !important;
+}
+.titulo{
+
+    font-size: 40px;
+    font-family: 'Boogaloo', cursive;
+    color: black;
+    text-align: center;
+}
+.textHeader{
+    margin-left: -25px;
+    margin-top:5%;
+    padding:20px;
+    color: #fff;
+    font-family: 'Boogaloo', cursive;
+}
+.twitter{
+    width: 100px;
+    height:100px;
+}
+
+
+.iconos{
+    width:40px;
+    height:30px;
+}
+.redes a {
+    color:#000;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.redes strong:hover{
+    background-color:black;
+    color:#fff;
+    padding:10px;
+}
+
+
+p{
+    margin:20px 0px 0px 0px;
+    text-align: justify;
+}
+
+h3{
+    color:black;
+}
+.titulo_historia h1{
+     text-align:center;
+}
+
+.titulo_modal{
+    color: black;
+    font-family: 'Boogaloo', cursive;
+}
+
+.menu{
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+.text_columna{
+   text-align:justify;
+}
+.text_columna img{
+    width: 100%;
+}
+.descrip_colum_2{
+    padding: 10px;
+}
+
+.cuadro {
+    color: aliceblue;
+    width:100%;
+    padding:100px;
+    text-align:center;
+
+
+
+}
+
+.conteiner-juegos{
+    margin-top: 20px;
+    width:100%;
+    height:100%;
+    border: 1px rgba(39, 7, 58, 0.541) dashed;
+    background-color: rgba(39, 7, 58, 0.541);
+}
+
+.conteiner-juegos img {
+    width:200px;
+    padding:30px;
+    
+
+}
+
+
+.logo{
+    margin-left:35%;
+    margin-right:35%;
+    /* background-color: rgb(0, 0, 0); */
+    border-radius:50%;
+    width:150px;
+    height:150px;
+}
+
+
+.flip-1{
+    width:300px !important;
+    height:200px !important;
+    margin-top: 10px !important;
+
+}
+
+footer {
+   background-color:#230044;
+   color: aliceblue;
+   width:100%;
+   height:100px;
+   text-align:center;
+   position: fixed;
+   bottom: 0;
+
+}
+
+footer p{  
+    font-family: 'Boogaloo', cursive;
+    font-size: 15px;   
+    color:#fff;
+    text-align:center;
+}
+
+.logo_footer{
+    width:90px;
+    height:60px;
+}
+
+
+
+/*CAMISA DEL EQUIPO*/
+.camisa {
+    z-index: 10;
+    position: fixed;
+    bottom: 0;
+    right: 50;
+    width: 380px;
+    height: 250px;
+    display: block;
+}
+
+
+
+@media only screen and (min-width: 120px) {
+
+
+    .header-1{
+        width:100px;
+        background-position: -250px -0px !important;
+    }
+    
+    .header-2{
+        background-position: -180px -290px !important;
+    }
+    
+    .header-3{
+        background-position: -190px -575px !important;
+    }
+
+    .icono{
+        width:50px;
+        height:50px;
+    }
+
+    .textHeader{
+        font-size:25px;
+    }
+
+/*CAMISA DEL EQUIPO*/
+.camisa {
+    display: none;
+}
+
+
+}
+
+@media only screen and (min-width: 400px) {
+
+
+    .logo{
+        margin-left:35%;
+        margin-right:35%;
+        border-radius:50%;
+        width:150px;
+        height:150px;
+    }
+
+    .video iframe{
+        width:360px;
+        height:210px;
+
+    }
+
+
+
+    .header-1{
+        background-position: -250px -0px !important;
+    }
+    
+    .header-2{
+        background-position: -180px -290px !important;
+    }
+    
+    .header-3{
+        background-position: -190px -575px !important;
+    }
+
+
+
+}
+
+@media only screen and (min-width: 770px) {
+
+
+    .header-1{
+        background-position: -0px -0px !important;
+    }
+    
+    .header-2{
+        background-position: -0px -290px !important;
+    }
+    
+    .header-3{
+        background-position: -0px -575px !important;
+    }
+    /*CAMISA DEL EQUIPO*/
+.camisa {
+    z-index: 10;
+    position: fixed;
+    bottom: 0;
+    right: 50;
+    width: 380px;
+    height: 250px;
+    display: block;
+}
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+    
+    .header-1{
+        width:100px;
+        background-position: -250px -0px !important;
+    }
+    
+    .header-2{
+        background-position: -180px -290px !important;
+    }
+    
+    .header-3{
+        background-position: -190px -575px !important;
+    }
+
+
+}
