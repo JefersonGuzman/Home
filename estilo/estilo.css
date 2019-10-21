@@ -203,6 +203,19 @@ footer p{
     display: block;
 }
 
+.info{
+    border-left: #230044 3px solid;
+    padding: 10px;
+}
+.subtitulo{
+    font-size: 40px;
+    font-family: 'Boogaloo', cursive;
+    color: black;
+}
+
+.competencias img {
+    width:100px !important;
+}
 
 
 @media only screen and (min-width: 120px) {
