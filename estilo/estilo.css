@@ -25,7 +25,7 @@ body{
     margin-left:2%;
     margin-bottom: 5%;
     margin-top:10px;
-    width:250px;
+    width:250px ;
     height:180px;
     background-color: rgba(39, 7, 58, 0.541);
     border-radius: 20px;
@@ -161,7 +161,7 @@ h3{
 
 
 .flip-1{
-    width:300px !important;
+    width:400px !important;
     height:200px !important;
     margin-top: 10px !important;
 
@@ -203,14 +203,30 @@ footer p{
     display: block;
 }
 
-.info{
-    border-left: #230044 3px solid;
+.info-img img{ 
     padding: 10px;
+    height:380px !important;
+    width:100%;
+}
+
+
+
+.info{
+    border-left: #230044 4px solid;
+    padding: 10px;
+}
+
+.info:hover{
+    border-left: #230044 6px solid;
+
 }
 .subtitulo{
     font-size: 40px;
     font-family: 'Boogaloo', cursive;
     color: black;
+}
+.competencias {
+    width:100%;
 }
 
 .competencias img {
@@ -243,10 +259,10 @@ footer p{
         font-size:25px;
     }
 
-/*CAMISA DEL EQUIPO*/
-.camisa {
-    display: none;
-}
+    /*CAMISA DEL EQUIPO*/
+    .camisa {
+        display: none;
+    }
 
 
 }
