@@ -188,13 +188,8 @@ footer p{
 
 
 
-.info-img img{ 
-    padding: 10px;
-    height:38% !important;
-    width:100% !important;
 
-    
-}
+
 
 
 
@@ -217,7 +212,8 @@ footer p{
 }
 
 .competencias img {
-    width:100px !important;
+    width:110px !important;
+    height:100px !important;
 }
 
 
@@ -344,10 +340,10 @@ footer p{
     }
 
 
-    .info-img img{
+    .info-img>img{
         margin-left:-50%;
         width:300px !important;
-        height:500px !important;
+        height:300px !important;
     }
 
     .equipos  a div{
@@ -395,11 +391,12 @@ footer p{
     }
 
     .info-img img{
-        margin-left:-50%;
-        width:400px !important;
-        height:500px !important;
+        margin-left:-10%;
+        width:300px !important;
+        height:300px !important;
     }
 
+    
         
     .equipos  a div{
         text-align: center;
