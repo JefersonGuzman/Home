@@ -187,12 +187,6 @@ footer p{
 }
 
 
-
-
-
-
-
-
 .info{
     border-left: #230044 4px solid;
     padding: 10px;
@@ -203,7 +197,7 @@ footer p{
 
 }
 .subtitulo{
-    font-size: 40px;
+    font-size: 20px;
     font-family: 'Boogaloo', cursive;
     color: black;
 }
@@ -216,6 +210,28 @@ footer p{
     height:100px !important;
 }
 
+
+.info ul {
+    list-style-type: square;
+}
+.info ul li {
+    padding: 8px 10px;
+    color: #111;
+}		
+.info ul li:nth-child(odd) { /* filas pares */
+    background-color: #f5f5f5;
+}
+.info ul li:nth-child(even) { /* filas impares */
+    background-color: #e5e5e5;
+}
+
+
+
+.img-polios li img{
+    width:50px !important;
+    height:50px !important;
+    padding:5px;
+}
 
 @media only screen and (min-width: 120px) {
 
