@@ -243,6 +243,10 @@ footer p{
     left: 0;
     right: 0;
 }
+
+
+
+
 .mercancia-buso img {
     top: 0;
     left: 0;
@@ -253,6 +257,11 @@ footer p{
     top: 0;
     left: 0;
     right: 0;
+}
+
+.informacion{
+    font-size:9px;
+    margin-top: -10px;
 }
 
 .btn-whatsapp{
@@ -268,8 +277,7 @@ footer p{
 }
 
 .btn-whatsapp:hover{
-    margin-left:10px;
-    margin-right:10px;
+    width:99%;
     padding:10px;
     color: #fff;
     font-size:17px;
@@ -299,8 +307,6 @@ footer p{
 }
 
 .btn-email:hover{
-    margin-left:10px;
-    margin-right:10px;
     padding:10px;
     color: #fff;
     font-size:17px;
