@@ -233,6 +233,93 @@ footer p{
     padding:5px;
 }
 
+.precio p{
+    font-size:20px !important;
+    color: #333;
+    font-family: 'Boogaloo';
+}
+.mercancia-camisa img{
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.mercancia-buso img {
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.mercancia-gorra img{
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.btn-whatsapp{
+    margin-top: 20px;
+    font-family: 'Boogaloo';
+    font-size:15px;
+    width:100%;
+    padding:10px;
+    color: #fff;
+    background-color: #25d366!important;
+    /* border:2px dashed  rgb(255, 251, 251); */
+
+}
+
+.btn-whatsapp:hover{
+    margin-left:10px;
+    margin-right:10px;
+    padding:10px;
+    color: #fff;
+    font-size:17px;
+    background-color: #25d366!important;
+    filter: drop-shadow(5px 5px 10px rgb(68, 68, 68));
+
+}
+
+.btn-whatsapp img{
+    width:30px;
+    height:30px;
+    margin-left: -11%;
+    margin-right:5%;
+}
+
+
+.btn-email{
+    margin-top: 20px;
+    font-family: 'Boogaloo';
+    font-size:15px;
+    width:100%;
+    padding:10px;
+    color: #fff;
+    background-color: #080808!important;
+    /* border:2px dashed  rgb(255, 251, 251); */
+
+}
+
+.btn-email:hover{
+    margin-left:10px;
+    margin-right:10px;
+    padding:10px;
+    color: #fff;
+    font-size:17px;
+    background-color: #030303!important;
+    filter: drop-shadow(5px 5px 10px rgb(68, 68, 68));
+
+}
+
+.btn-email img{
+    width:30px;
+    height:30px;
+    margin-left: -11%;
+    margin-right:5%;
+}
+
+
+
+
+
 @media only screen and (min-width: 120px) {
 
 

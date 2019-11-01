@@ -94,7 +94,7 @@ ul img {
   color:#fff;
 }
 .u-hide-before-md{
-  margin-left: 40%;
+  margin-left: 50% !important;
 }
 .header-wrap {
   max-width: 1200px;
@@ -296,6 +296,16 @@ li{
     display: none !important;
 
   }
+
+  .u-hide-before-md{
+    margin-left: 15% !important;
+  }
+
+  .u-container ul li {
+    padding: 10px 20px 10px !important; 
+    text-align: center !important;
+    height: 50px !important;
+  }
 }
 
 @media screen and (max-width: 1275px) {
@@ -411,6 +421,8 @@ li{
     margin-top:20px;
     margin-left:0;
   }
+
+
 }
 
 @media screen and (max-width: 360px) {
