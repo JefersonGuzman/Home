@@ -150,6 +150,7 @@ h3{
 
 }
 
+
 footer {
    background-color:#230044;
    color: aliceblue;
@@ -238,6 +239,7 @@ footer p{
     font-size:20px !important;
     color: #333;
     font-family: 'Boogaloo';
+    text-align: justify;
 }
 .mercancia-camisa img{
     top: 0;
@@ -431,8 +433,10 @@ footer p{
         margin: 1rem;
         padding: 1rem;
         border: 2px solid #ccc;
-      
-          
+    }
+    
+    .product:hover{
+        background-color: #2b084d;
     }
 
 }
