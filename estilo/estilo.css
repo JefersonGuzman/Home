@@ -490,17 +490,7 @@ footer p{
     }
 
     
-    .equipos div:hover{
-        text-align: center;
-        margin-left:2%;
-        margin-bottom: 5%;
-        margin-top:10px;
-        width:350px;
-        height:180px;
-        background-color:#230044;
-        border-radius: 30px;
-    
-    }
+
 
     .conteiner-juegos a img:hover {
         width: 200px !important;
