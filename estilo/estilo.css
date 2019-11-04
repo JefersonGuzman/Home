@@ -326,6 +326,10 @@ footer p{
 
 
 
+.conteiner-juegos a img:hover {
+    width: 200px !important;
+    padding: 10px;
+}
 
 
 @media only screen and (min-width: 120px) {
@@ -435,9 +439,7 @@ footer p{
         border: 2px solid #ccc;
     }
     
-    .product:hover{
-        background-color: #2b084d;
-    }
+
 
 
 
@@ -495,17 +497,16 @@ footer p{
         margin-left:2%;
         margin-bottom: 5%;
         margin-top:10px;
-        width:350px;
+        width:330px ;
         height:180px;
         background-color:#230044;
         border-radius: 30px;
-    
+
     }
 
-    .conteiner-juegos a img:hover {
-        width: 200px !important;
-        padding: 10px;
-    }
+    
+
+
 
 
 }
