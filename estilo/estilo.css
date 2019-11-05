@@ -151,31 +151,6 @@ h3{
 }
 
 
-footer {
-   background-color:#230044;
-   color: aliceblue;
-   width:100%;
-   height:100px;
-   text-align:center;
-   position: fixed;
-   bottom: 0;
-
-}
-
-footer p{  
-    font-family: 'Boogaloo', cursive;
-    font-size: 15px;   
-    color:#fff;
-    text-align:center;
-}
-
-.logo_footer{
-    width:90px;
-    height:60px;
-}
-
-
-
 /*CAMISA DEL EQUIPO*/
 .camisa {
     z-index: 10;
@@ -185,6 +160,7 @@ footer p{
     width: 180px;
     height: 150px;
     display: block;
+    text-align: right;
 }
 
 
@@ -330,6 +306,53 @@ footer p{
     width: 200px !important;
     padding: 10px;
 }
+
+
+.text_footer {
+    background-color:#230044;
+    color: aliceblue;
+    width:100%;
+    height:100%;
+    padding:20px;
+    text-align:center;
+
+ 
+ }
+ 
+ footer p{  
+     font-family: 'Boogaloo', cursive;
+     font-size: 15px;   
+     color:#fff;
+     text-align:center;
+ }
+ 
+.logo_footer{
+     width:90px;
+     height:60px;
+ }
+footer .logo-ess {
+    width: 200px;
+    height:180px;
+    padding: 10px !important;
+}
+
+.text_footer a{
+    color:#fff;
+}
+
+.text_footer a:hover{
+    color:#ac49ba;;
+
+}
+footer .subtitulo{
+    color:#025fb6;
+    font-size:15px;
+    text-align:justify;
+    
+}
+ 
+
+
 
 
 @media only screen and (min-width: 120px) {
