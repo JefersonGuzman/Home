@@ -221,6 +221,8 @@ h3{
     top: 0;
     left: 0;
     right: 0;
+    height:180px;
+    width:300px;
 }
 
 
@@ -228,13 +230,20 @@ h3{
     top: 0;
     left: 0;
     right: 0;
+    height:180px;
+    width:300px;
 }
 
 .mercancia-gorra img{
     top: 0;
     left: 0;
     right: 0;
+    height:180px;
+    width:300px;
 }
+
+
+
 
 .informacion{
     font-size:9px;
@@ -351,6 +360,60 @@ footer .subtitulo{
     
 }
  
+.products{
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+}
+
+.products > .mercancia-camisas img{
+    top: 0;
+    left: 0;
+    right: 0;
+    height:200px !important;
+    width:300px;
+}
+
+.products > .mercancia-sacos img{
+    top: 0;
+    left: 0;
+    right: 0;
+    height:200px !important;
+    width:300px;
+}
+
+.products > .mercancia-gorras img{
+    top: 0;
+    left: 0;
+    right: 0;
+    height:200px !important;
+    width:300px;
+}
+
+
+
+
+
+
+.product{
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    width:100%;
+    height:350px;
+
+}
+
+.contenido > p{
+    height:100%;
+    width:100%;
+    font-size:15px !important;
+    font-family: 'Boogaloo', cursive;
+    color: black;
+
+}
 
 
 
@@ -460,9 +523,23 @@ footer .subtitulo{
         margin: 1rem;
         padding: 1rem;
         border: 2px solid #ccc;
+        width:50%;
+        height:300px;
+        text-align: center;
+        margin-left:25%;
+        margin-bottom: 5%;
+        margin-top:10px;
+    
     }
     
+    .contenido > p{
+        height:100%;
+        width:100%;
+        font-size:15px !important;
+        font-family: 'Boogaloo', cursive;
+        color: black;
 
+    }
 
 
 
@@ -528,6 +605,32 @@ footer .subtitulo{
 
     }
 
+    
+    .product{
+        background-color: #fafafa;
+        margin: 1rem;
+        padding: 1rem;
+        border: 2px solid #ccc;
+        width:100% !important;
+        height:300px !important;
+        text-align: center;
+    
+    }
+
+    .contenido >.subtitulo{
+        height:100%;
+        width:100%;
+        font-size:13px !important;
+    }
+
+    .contenido > p{
+        height:100%;
+        width:100%;
+        font-size:12px !important;
+        font-family: 'Boogaloo', cursive;
+        color: black;
+
+    }
 
 
 }
@@ -577,6 +680,31 @@ footer .subtitulo{
         height:180px;
         background-color:#230044;
         border-radius: 30px;
+
+    }
+
+    .product{
+        background-color: #fafafa;
+        margin: 1rem;
+        padding: 1rem;
+        border: 2px solid #ccc;
+        width:100% !important;
+        height:350px;
+    
+    }
+
+    .subtitulo{
+        height:100%;
+        width:100%;
+        font-size:15px !important;
+    }
+
+    .contenido > p{
+        height:100%;
+        width:100%;
+        font-size:15px !important;
+        font-family: 'Boogaloo', cursive;
+        color: black;
 
     }
 
