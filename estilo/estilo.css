@@ -367,6 +367,11 @@ footer .subtitulo{
     border: 2px solid #ccc;
 }
 
+.product>img:hover{
+    padding:20px;
+    background-color: rgba(226, 226, 226, 0.794);
+}
+
 .products > .mercancia-camisas img{
     top: 0;
     left: 0;
