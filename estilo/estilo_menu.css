@@ -340,6 +340,7 @@ li{
 .icono{
     width:100px !important;
     height:100px !important;
+    display:block;
   }
 
   .sidenav-wrap a{
@@ -421,6 +422,12 @@ li{
     margin-top:20px;
     margin-left:0;
   }
+  
+.icono{
+  width:100px !important;
+  height:100px !important;
+  display: none;
+}
 
 
 }
@@ -456,6 +463,7 @@ li{
 .icono{
     width:100px !important;
     height:100px !important;
+    display: none;
   }
 
   .sidenav-wrap a{
