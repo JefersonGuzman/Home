@@ -60,7 +60,7 @@ ul img {
 
 .u-flex1 {
   flex: 1 1 auto;
-  padding-top:30px;
+  padding-top:10px;
 }
 
 .header-center ul li:hover{
@@ -213,11 +213,8 @@ ul img {
 
 .sidenav li {
    height:50px;
-   padding:20px 20px;
+   padding:10px 40px;
    text-decoration: none;
-
-
-
 }
 
 li{
@@ -487,6 +484,7 @@ li{
     width:60px;
     height:110px;
   }
+
 
 
 }
