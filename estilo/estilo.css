@@ -316,6 +316,44 @@ h3{
     padding: 10px;
 }
 
+.icono-redes-facebook{
+    background-color: #025fb6;
+    width:30px;
+    border-radius:5px;
+    padding:5px;
+    text-align: center;
+}
+
+.icono-redes-facebook a{
+    font-size: 15px;
+    color: #ccc;
+}
+
+.icono-redes-facebook:hover{
+    width:31px;
+    padding:6px;
+
+}
+
+.icono-redes-twitter{
+    background-color: #0da3e9;
+    margin-left:3px;
+    width:30px;
+    border-radius:5px;
+    padding:5px;
+    text-align: center;
+}
+
+.icono-redes-twitter a{
+    font-size: 15px;
+    color: #ccc;
+}
+
+.icono-redes-twitter:hover{
+    width:31px;
+    padding:6px;
+
+}
 
 .text_footer {
     background-color:#230044;
