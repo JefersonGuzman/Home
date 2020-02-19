@@ -467,7 +467,9 @@ footer .subtitulo{
     text-align: center;
     padding-top: 20px;
     margin-bottom: -10%;
+    width:100%;
 }
+
 
 @media only screen and (min-width: 120px) {
 
@@ -533,6 +535,10 @@ footer .subtitulo{
         font-size: 12px;   
         color:#fff;
         text-align:center;
+    }
+
+    .card-add{
+        display: none;
     }
 
 }
@@ -682,6 +688,11 @@ footer .subtitulo{
         color: black;
 
     }
+
+    .card-add{
+        display:block;
+    }
+
 
 
 }
