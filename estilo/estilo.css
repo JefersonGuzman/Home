@@ -13,7 +13,7 @@ html {
 body{
     margin: 0;
     height:10px !important;
-    border: 1px solid #333;
+    border: 0px solid #333;
     color:black;
 
 } 
@@ -309,6 +309,51 @@ h3{
     margin-right:5%;
 }
 
+/************************************************/
+/************ ESTILO CARD NOTICIAR**************/
+/************************************************/
+
+.card span{
+    color:#4e0aa1;
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+
+.pie-card p{
+    color: #ffffff;
+    background-color: #230044;
+    width:200px;
+    padding:5px;
+    text-align: center;
+}
+
+
+.card-body{
+    height:185px;
+    padding:10px;
+    border: 1px rgba(39, 7, 58, 0.541) dashed;
+ 
+}
+
+.card:hover{
+    box-shadow: 4px 4px 10px #666;        /* Sombra normal */
+}
+
+.card-noticias{
+    padding: 10px;
+}
+
+.card img {
+    height:230px;
+}
+
+.card h5{
+    font-size: 15px;
+}
+
+
+
 
 
 .conteiner-juegos a img:hover {
@@ -362,20 +407,28 @@ h3{
     height:100%;
     padding:20px;
     text-align:center;
+ 
+ }
+.sponsor{
+    padding: 50px;
+}
+
 
  
- }
- 
  footer p{  
-     font-family: 'Boogaloo', cursive;
-     font-size: 15px;   
-     color:#fff;
-     text-align:center;
+    font-family: 'Boogaloo', cursive;
+    font-size: 15px;   
+    color:#fff;
+    text-align:center;
  }
+
+.cuadro_footer{
+    height:150px !important;
+}
  
 .logo_footer{
-     width:90px;
-     height:60px;
+    width:90px;
+    height:60px;
  }
 footer .logo-ess {
     width: 200px;
@@ -433,10 +486,6 @@ footer .subtitulo{
     height:200px !important;
     width:300px;
 }
-
-
-
-
 
 
 .product{
@@ -541,6 +590,15 @@ footer .subtitulo{
         display: none;
     }
 
+    .card-body{
+        height: 150px !important;
+    }
+
+    .card-noticias{
+        width:100% !important;
+    }
+
+
 }
 
 @media only screen and (min-width: 400px) {
@@ -597,6 +655,37 @@ footer .subtitulo{
         color: black;
 
     }
+
+    /**************************/
+    /***** iframe ***************/
+    /****************************/
+    .card-noticias{
+        padding: 10px;
+        height:490px !important;
+        width:50%;
+    }
+    
+
+    .card-body{
+        height: 250px !important;
+    }
+
+    
+    .card-noticias{
+        width:50% !important;
+        height:500px !important;
+    }
+
+    .pie-card p{
+        color: #ffffff;
+        background-color: #230044;
+        width:150px;
+        padding:5px;
+        font-size: 10px;
+        text-align: center;
+    }
+
+
 
 
 
@@ -693,6 +782,16 @@ footer .subtitulo{
         display:block;
     }
 
+    .card-body{
+        height: 150px !important;
+    }
+
+    .card-noticias{
+        width:33% !important;
+        height:500px !important;
+
+    }
+
 
 
 }
@@ -769,5 +868,7 @@ footer .subtitulo{
         color: black;
 
     }
+
+    
 
 }
