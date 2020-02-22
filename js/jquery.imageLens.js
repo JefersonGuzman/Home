@@ -24,7 +24,7 @@
             var target = $("<div style='" + lensStyle + "' id='zoom_div' class='" + options.lensCss + "'>&nbsp;</div>").appendTo($(this).parent());
             var targetSize = target.length;
 if (options.loadingImageSrc) { 
-  target.html('<img class="loading_image" src="' + options.loadingImageSrc + '">')
+  target('<img class="loading_image" src="' + options.loadingImageSrc + '">')
 }
             // Calculating actual size of image
             var imageSrc = options.imageSrc ? options.imageSrc : $(this).attr("src");
