@@ -222,6 +222,130 @@
     </image:image>
   </url>
   <url>
+    <loc>http://essencegaming.club/free-fire-plantilla</loc>
+    <lastmod>2020-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/persona.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>http://essencegaming.club/clash-royale-plantilla</loc>
+    <lastmod>2020-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/Clash-Royale.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/1puesto.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/2puesto.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
     <loc>http://essencegaming.club/rocket-league-plantilla</loc>
     <lastmod>2020-02-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,7 +466,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://essencegaming.club/free-fire-plantilla</loc>
+    <loc>http://essencegaming.club/noticias</loc>
     <lastmod>2020-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -363,11 +487,11 @@
       <image:caption />
     </image:image>
     <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
+      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
       <image:caption />
     </image:image>
     <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
+      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
       <image:caption />
     </image:image>
     <image:image>
@@ -379,20 +503,16 @@
       <image:caption />
     </image:image>
     <image:image>
-      <image:loc>http://essencegaming.club/img/productos/persona.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
       <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
-      <image:title>...</image:title>
+      <image:title>imagen Camisa de EssenceGaming</image:title>
     </image:image>
     <image:image>
       <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
-      <image:title>...</image:title>
+      <image:title>imagen buso de EssenceGaming</image:title>
     </image:image>
     <image:image>
       <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
-      <image:title>...</image:title>
+      <image:title>imagen gorra de EssenceGaming</image:title>
     </image:image>
     <image:image>
       <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
@@ -442,130 +562,6 @@
     </image:image>
     <image:image>
       <image:loc>http://essencegaming.club/vi/7P6bUA0cbdI/maxresdefault.jpg</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
-      <image:caption />
-    </image:image>
-  </url>
-  <url>
-    <loc>http://essencegaming.club/league-of-legends-plantilla</loc>
-    <lastmod>2020-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/lol.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
-      <image:caption />
-    </image:image>
-  </url>
-  <url>
-    <loc>http://essencegaming.club/clash-royale-plantilla</loc>
-    <lastmod>2020-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/Clash-Royale.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/1puesto.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/2puesto.png</image:loc>
       <image:caption />
     </image:image>
     <image:image>
@@ -640,7 +636,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://essencegaming.club/sponsors</loc>
+    <loc>http://essencegaming.club/league-of-legends-plantilla</loc>
     <lastmod>2020-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -677,7 +673,7 @@
       <image:caption />
     </image:image>
     <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/Black.png</image:loc>
+      <image:loc>http://essencegaming.club/img/productos/lol.png</image:loc>
       <image:caption />
     </image:image>
     <image:image>
@@ -691,200 +687,6 @@
     <image:image>
       <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
       <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
-      <image:caption />
-    </image:image>
-  </url>
-  <url>
-    <loc>http://essencegaming.club/noticias</loc>
-    <lastmod>2020-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
-      <image:title>imagen Camisa de EssenceGaming</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
-      <image:title>imagen buso de EssenceGaming</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
-      <image:title>imagen gorra de EssenceGaming</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
-      <image:caption />
-    </image:image>
-  </url>
-  <url>
-    <loc>http://essencegaming.club/equipos</loc>
-    <lastmod>2020-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/ff.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/lol.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/cr.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/bs.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/pubg.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/COD.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/autoChess.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono-juegos/ROCKET-LEAGUE.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
-      <image:title>...</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
-      <image:caption />
-    </image:image>
-  </url>
-  <url>
-    <loc>http://essencegaming.club/tienda-gorra</loc>
-    <lastmod>2020-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/whatsapp.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/enviar-correo.png</image:loc>
-      <image:caption />
     </image:image>
     <image:image>
       <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
@@ -978,56 +780,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://essencegaming.club/tienda-camiseta</loc>
+    <loc>http://essencegaming.club/noticias_origin</loc>
     <lastmod>2020-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/whatsapp.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/iconos/enviar-correo.png</image:loc>
-      <image:caption />
-    </image:image>
-    <image:image>
-      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
+      <image:loc>http://essencegaming.club/ext_tw_video_thumb/1203769966048231428/pu/img/mgngHx_1M_kQ4FxW.jpg</image:loc>
       <image:caption />
     </image:image>
   </url>
@@ -1086,15 +844,257 @@
     </image:image>
   </url>
   <url>
-    <loc>http://essencegaming.club/noticias_origin</loc>
+    <loc>http://essencegaming.club/tienda-gorra</loc>
     <lastmod>2020-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>http://essencegaming.club/ext_tw_video_thumb/1203769966048231428/pu/img/mgngHx_1M_kQ4FxW.jpg</image:loc>
+      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/whatsapp.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/enviar-correo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>http://essencegaming.club/sponsors</loc>
+    <lastmod>2020-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/Black.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>http://essencegaming.club/tienda-camiseta</loc>
+    <lastmod>2020-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/whatsapp.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/enviar-correo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
+      <image:caption />
+    </image:image>
+  </url>
+  <url>
+    <loc>http://essencegaming.club/equipos</loc>
+    <lastmod>2020-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/logo.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/casa.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/portafolio.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/carro.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/noticias.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/sobre-mi.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/iconos/White.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/banners/banner_Essenc.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/ff.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/lol.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/cr.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/bs.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/pubg.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/COD.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/autoChess.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono-juegos/ROCKET-LEAGUE.png</image:loc>
+      <image:caption />
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/camisa.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/buso.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/productos/gorra.png</image:loc>
+      <image:title>...</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://essencegaming.club/img/icono_srjeff.png</image:loc>
       <image:caption />
     </image:image>
   </url>
 </urlset>
-<!--<guid value="ffc8a7f6-7089-4004-9f8b-383deabbec28" />-->
+<!--<guid value="fbb2d3d9-1883-4304-a49d-6774cd01c9c8" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
