@@ -523,30 +523,31 @@ footer .subtitulo{
 .page-error .error { 
     font-family: 'Pacifico';
     font-size: 10pc !important;
-    color: rgba(255, 255, 255, 0.598);
+    color: #f1f1f1;
 }  
 
 .page-error .mgs-error { 
     font-size: 5pc !important;
     font-family: 'Boogaloo', cursive;
-    color: rgba(255, 255, 255, 0.598);
+    color: #f1f1f1;
 } 
 
 .page-error h3{
     font-family: 'Boogaloo', cursive;
     font-size:2pc;
-    color: #fff;
+    color: #f1f1f1;
     
 }
 
-.btn-inicio{
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #230044;
-    color: #fff;
-    font-family: 'Boogaloo', cursive;
-    font-size: 2pc;
+
+
+.logo-blanco-v1 img{
+    margin-top:10%;
+    width:400px;
+    height:380px !important;
 }
+
+
 
 
 
