@@ -1,13 +1,14 @@
+Options All -Indexes
+ErrorDocument 500 /home/500.html
+ErrorDocument 401 /home/401.html
+ErrorDocument 403 /home/403.html
+ErrorDocument 404 /home/404.html
+
 RewriteBase /
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html
-
-ErrorDocument 500 /500.html
-ErrorDocument 401 /401.html
-ErrorDocument 403 /403.html
-ErrorDocument 404 /404.html
 
 
 ## EXPIRES CACHING ##

@@ -513,23 +513,40 @@ footer .subtitulo{
 /**********************************************/
 
 .pagina-error {
-    background-color: rgba(85, 82, 82, 0.367);
+    background-color: rgba(45, 3, 76, 0.931);
 }
 
 .page-error {
-    padding:20px;
+    padding:30px;
 }
 
 .page-error .error { 
     font-family: 'Pacifico';
     font-size: 10pc !important;
+    color: rgba(255, 255, 255, 0.598);
 }  
 
 .page-error .mgs-error { 
     font-size: 5pc !important;
     font-family: 'Boogaloo', cursive;
+    color: rgba(255, 255, 255, 0.598);
+} 
 
-}  
+.page-error h3{
+    font-family: 'Boogaloo', cursive;
+    font-size:2pc;
+    color: #fff;
+    
+}
+
+.btn-inicio{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #230044;
+    color: #fff;
+    font-family: 'Boogaloo', cursive;
+    font-size: 2pc;
+}
 
 
 
