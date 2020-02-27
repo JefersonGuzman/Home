@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Boogaloo');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
 
 html {
   min-height: 100%;
@@ -506,6 +507,30 @@ footer .subtitulo{
     color: black;
 
 }
+
+/**********************************************/
+/***************PAGINA DE ERROR****************/
+/**********************************************/
+
+.pagina-error {
+    background-color: rgba(85, 82, 82, 0.367);
+}
+
+.page-error {
+    padding:20px;
+}
+
+.page-error .error { 
+    font-family: 'Pacifico';
+    font-size: 10pc !important;
+}  
+
+.page-error .mgs-error { 
+    font-size: 5pc !important;
+    font-family: 'Boogaloo', cursive;
+
+}  
+
 
 
 /**********************************************/
